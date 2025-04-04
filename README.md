@@ -60,7 +60,7 @@ Linux - Ubuntu 18 - Docker - SSL opcional<br>
 
 ### Panel de administración
 
-[URL](https://facturalo.pro "Clic")
+[URL](https://PcefactPeru.pro "Clic")
 <br>
 Usuario: admin@gmail.com<br>
 Contraseña: 123456
@@ -133,8 +133,8 @@ Proyecto Espejo (Mirror/Fork) (Por actualizar): [Guía](https://docs.google.com/
 * Toda instalación es gestionada mediante los canales de Slack
 * Nuevas instalaciones o actualizaciones deben ser programadas y gestionadas, para ser ejecutada el mismo día debe haber un problema previo
 
-## FacturaloPeru
+## PcefactPeru
 
-[facturaloperu.com](http://facturaloperu.com "Clic")<br>
-soporte@facturaloperu.com<br>
-wsapp: 930 973 902<br>
+[PcefactPeru.com](http://PcefactPeru.com "Clic")<br>
+soporte@PcefactPeru.com<br>
+wsapp: 901142035<br>
